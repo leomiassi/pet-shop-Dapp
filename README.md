@@ -22,15 +22,15 @@ npm install -g truffle
 
 ## How to run:
 Open the terminal in the project folder:
-- To compile the smart contract
+- Compile the smart contract
 ```
 truffle compile
 ```
-- Migrate
+- Migrate the contract to the blockchain
 ```
 truffle migrate
 ```
-- Test the smart contract
+- Test the contract
 ```
 truffle test
 ```
